@@ -19,8 +19,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/srs-focus-knight">
-            Read SRS
+            to="/docs/srs/introduccion">
+            Ver documentacion SRS 📄
           </Link>
         </div>
       </div>

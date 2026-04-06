@@ -94,7 +94,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentacion',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -112,7 +112,7 @@ const config = {
             items: [
               {
                 label: 'Especificacion (SRS)',
-                to: '/docs/srs/1-introduccion',
+                to: '/docs/srs/introduccion',
               },
             ],
           },
